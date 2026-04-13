@@ -1,5 +1,7 @@
 # DiscordCloner v7
 
+![Preview](preview.png)
+
 <p align="center">
   <img src="https://img.shields.io/badge/version-7.0.0-5865F2?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/node-%3E%3D18.0.0-339933?style=for-the-badge&logo=node.js" alt="Node">
